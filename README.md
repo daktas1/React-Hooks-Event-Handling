@@ -8,7 +8,7 @@
 ### Installation
 ```
 # clone the repository
-git clone  
+git clone  "https://github.com/daktas1/React-Hooks-Event-Handling.git"
 
 # install dependencies
 npm install
